@@ -44,5 +44,4 @@ Inside the Kali terminal, I configured `Wired connection 1` (`eth0`) with a stat
 
 ```bash
 sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
-sudo nmcli connection up "Wired connection 1"# Lab-Set-up-Networkwalks-Internship
-Lab set-up Configuration for Networkwalks Internship
+sudo nmcli connection up "Wired connection 1"
